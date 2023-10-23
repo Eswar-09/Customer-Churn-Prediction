@@ -22,7 +22,7 @@ The Sunbase Churn Customer Analysis project aims to analyze customer churn for S
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/sunbase-churn-analysis.git`
+1. Clone the repository: `git clone https://github.com/Eswar-09/Customer-Churn-Prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Open the Jupyter Notebook: `jupyter notebook Sunbase_Churn_Customer_Analysis.ipynb`
 4. Follow the step-by-step instructions in the notebook to analyze the customer churn data and explore the findings.
